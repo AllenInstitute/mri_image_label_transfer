@@ -1,5 +1,6 @@
 # mri_image_label_transfer
 Visit the application website (deployed): https://alleninstitute-mri-image-label-transfer-my-app-6mlgh3.streamlit.app/
+
 Watch the Demo Video: https://drive.google.com/file/d/1ZLDseIsR0dr1hZUTEyb7215lge7TRJAk/view?usp=share_link 
 
 Project Overview: This project was designed as a pilot for transferring brain region segmentation labels from sparsely labeled image volumes. Brain annotation is a time-intensive task that requires manual pixel-by-pixel labeling of structures defined by the human brain ontology. Because of time constraints, the most up-to-date brain annotation only covers ~10% of the brain volume. This project’s goal was to develop and deploy a model that transferred labeled sections of the Nissl human brain atlas to unlabeled neighbors. ​
